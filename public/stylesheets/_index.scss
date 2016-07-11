@@ -1,0 +1,18 @@
+.names {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 15vw;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+main {
+  h1 {
+    font-size:20px;
+  }
+  p {
+    font-size:15px;
+  }
+}
